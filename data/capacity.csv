@@ -1,0 +1,8 @@
+station,kind,gate,small_min,large_min,shared_with
+UN,正常卸料,北门,6,10,
+UW,正常卸料,西门,9,14,
+US,正常卸料,南门,5,11,
+SC1,共享称重,北门,5,10,西门
+SC2,称重,南门,4,7,
+COR,跨门通道,北门,3,7,西门
+PORT,机动卸料,,5,8,

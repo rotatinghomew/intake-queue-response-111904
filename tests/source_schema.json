@@ -1,0 +1,57 @@
+{
+  "appointments": [
+    [
+      "trip",
+      "vehicle",
+      "requested_gate",
+      "available_gates",
+      "vehicle_class",
+      "promised_complete_by"
+    ],
+    [
+      "trip"
+    ]
+  ],
+  "signals": [
+    [
+      "event",
+      "trip",
+      "vehicle",
+      "source",
+      "kind",
+      "gate",
+      "source_clock",
+      "arrived_at"
+    ],
+    [
+      "event"
+    ]
+  ],
+  "capacity": [
+    [
+      "station",
+      "kind",
+      "gate",
+      "small_min",
+      "large_min",
+      "shared_with"
+    ],
+    [
+      "station"
+    ]
+  ],
+  "moves": [
+    [
+      "notice",
+      "line",
+      "from_gate",
+      "to_gate",
+      "start_at",
+      "ready_at",
+      "state"
+    ],
+    [
+      "notice"
+    ]
+  ]
+}
